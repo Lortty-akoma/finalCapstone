@@ -13,4 +13,4 @@
   [Screenshot (20)](https://github.com/Lortty-akoma/finalCapstone/assets/128003931/37cfc315-385f-4472-9d55-699c04b6b4f2)
   ![Screenshot (21)](https://github.com/Lortty-akoma/finalCapstone/assets/128003931/c840da66-5d61-4d14-ac62-9c52e0e5a7e9)
   
-  # This code was created by Loretta Adjei
+  # This code was created by Loretta Adjei - https://github.com/Lortty-akoma/
