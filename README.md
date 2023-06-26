@@ -9,4 +9,6 @@
   The new ASCII value is then converted back to a string, thus the encoded message.
 # **USAGE**
   You will be asked to enter your message to be encoded. Once the message has been entered, your message is encoded and the result is printed with punctuations and spaces not changing.
+
+  ![Screenshot (11)](https://github.com/Lortty-akoma/finalCapstone/assets/128003931/eb17aa10-e5a4-4289-a1d6-c75531c458c9)
   # This code was created by Loretta Adjei
